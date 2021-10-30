@@ -9,7 +9,7 @@ function isVakid(s){
   const brackets = {
     ')': '(',
     '}': '{',
-    ']':`` '['
+    ']': '['
   }
   let st =[]
   for (let i = 0; i < s.length; i++) {
