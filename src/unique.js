@@ -2,7 +2,7 @@ function unique(...array) {
     let arr = []
     let res ={}
     let ans = []
-    for (let i = 0; i < array.length; i++) {
+    for (let i = 0; i < array.length; i++) {ф
         arr.push(...array[i])
     }
     arr.forEach((i) =>{
